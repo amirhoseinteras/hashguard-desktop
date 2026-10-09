@@ -1,0 +1,15 @@
+# HashGuard
+
+Offline Windows SHA-256 file hash calculator and checksum verifier.
+
+## Windows downloads
+- Installer: https://github.com/amirhoseinteras/hashguard-desktop/releases/latest/download/HashGuard-Setup.exe
+- Portable ZIP: https://github.com/amirhoseinteras/hashguard-desktop/releases/latest/download/HashGuard-Portable.zip
+- SHA-256 checksums: https://github.com/amirhoseinteras/hashguard-desktop/releases/latest
+
+Unsigned binaries may show a Windows SmartScreen warning. Always verify the release checksums.
+
+## Source, documentation and support
+- Instructions, requirements, license and limitations: https://github.com/amirhoseinteras/hashguard-desktop#readme
+- Report issues: https://github.com/amirhoseinteras/hashguard-desktop/issues
+- Source code and reproducible build instructions: https://github.com/amirhoseinteras/hashguard-desktop
